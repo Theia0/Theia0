@@ -15,4 +15,4 @@
 
 <h1 align="center">📊️ GitHub Stats</h1>
 
-<h1 align="center"><img src="https://github-readme-stats.vercel.app/api?username=roaliia&show_icons=true&theme=radical"></h1>
+<h1 align="center"><img src="https://github-readme-stats.vercel.app/api?username=Theia0&show_icons=true&theme=radical"></h1>
